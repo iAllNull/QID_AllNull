@@ -12,10 +12,10 @@
 
 **🍰 2021-09-19 Version 1.0.0**
 
-*该版本依赖 VOID 插件 1.20 及以上版本，请先禁用原插件，上传新插件后重新启用插件*
+*QID_AllNull诞生了*
 
-* 修复：iframe 尺寸错误（#42）
-* 修复：归档页面显示未发布的文章（#45）
+* 开发：Null（#42）
+* 修复：Null（#45）
 
 ## 捐助
 
@@ -25,4 +25,4 @@
 
 ## License
 
-MIT © [AlanDecode](https://github.com/AlanDecode)
+MIT © [AllNull](https://github.com/iAllNull)
