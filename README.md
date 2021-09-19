@@ -4,7 +4,7 @@
 
 ## 开始使用
 
-1. 下载主题：[发布版](https://github.com/iAllNull/QID_AllNull/releases)，注意是下载 VOID-x.x.x.zip 这个压缩包，而不是 Source code
+1. 下载主题：[发布版](https://github.com/iAllNull/QID_AllNull/releases)，注意是下载 QID_AllNull-x.x.x.zip 这个压缩包，而不是 Source code
 2. 上次到服务器
 3. 解压
 
