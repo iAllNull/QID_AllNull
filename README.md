@@ -1,6 +1,6 @@
-# Typecho Theme VOID 3.5.1
+# QID_AllNull 1.0.0
 
-> ✏ 一款简洁优雅的 Typecho 主题
+> ✏ 一款简洁优雅的个人主页
 
 作为计算机术语时，VOID 的意思是「无类型」。
 
