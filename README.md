@@ -1,7 +1,7 @@
 # QID_AllNull 1.0.0
 
 > ✏ 一款简洁优雅的个人主页
-
+> [站点演示](http://qid.mycloud.party/)
 ## 开始使用
 
 1. 下载主题：[发布版](https://github.com/iAllNull/QID_AllNull/releases)，注意是下载 QID_AllNull-x.x.x.zip 这个压缩包，而不是 Source code
